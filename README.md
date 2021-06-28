@@ -12,3 +12,11 @@ My name is Alex Fernando Schissel. I am from Brazil. And I started my developer 
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/alexfschissel/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/noahschissel/) 
+
+
+
+
+### :bar_chart: Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipez3r0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipez3r0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
