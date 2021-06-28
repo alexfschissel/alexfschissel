@@ -3,7 +3,7 @@
 My name is Alex Fernando Schissel. I am from Brazil. And I started my developer career in 2020. I study everything on my own and I am constantly learning. 👨‍💻
 
 
-#### For me, everything is a challenge that can be discovered.
+### For me, everything is a challenge that can be discovered.
 
 
 📍 Curitiba - PR
